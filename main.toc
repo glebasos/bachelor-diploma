@@ -1,0 +1,3 @@
+\select@language {russian}
+\contentsline {paragraph}{\hbox to\hsize {\hss {Введение}\hss }\vspace {1.5em}}{6}{section*.1}% 
+\contentsline {section}{\uppercase {Введение}}{6}{section*.1}% 
