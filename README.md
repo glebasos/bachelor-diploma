@@ -1,8 +1,6 @@
 bachelor-diploma
 ================
-Дипломная работа бакалавра в LaTeX, оформленная в соответствии с нормоконтролем Севастопольского государственного университета в 2015 году
-
-Диплом магистра с некоторыми исправлениями и дополнениями тут: https://github.com/Amet13/master-thesis
+Дипломная работа бакалавра в LaTeX, оформленная в соответствии с ЕСКД
 
 Особенности
 -----------
@@ -64,24 +62,6 @@ bachelor-diploma
 * файлы формата `[a-z]-app.tex` являются файлами приложений
 * файлы формата `[a-z]*.tex` не являются секциями, они подключаются для полной работы документа (например преамбула)
 
-В каталоге `inc/ddos/` находятся файлы, взятые из репозитория: https://github.com/Amet13/ddos-deflate
-
-Работа с LaTeX
---------------
-Как установить LaTeX: http://blog.amet13.name/2014/06/latex.html
-
-Пример компиляции проекта с помощью Makefile:
-```bash
-git clone https://github.com/Amet13/bachelor-diploma.git
-cd bachelor-diploma/
-make
-```
-
-Пример очистки сборочных файлов после компиляции (кроме PDF):
-```bash
-make clean
-```
-
 Лицензия
 --------
 [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/deed.ru)
@@ -93,5 +73,3 @@ make clean
 [Анатолию Смолянинову](https://github.com/zarkone/bachelor) за основу шаблона LaTeX
 
 [Руслану Вихрову](http://defuze.cc.ua), Даниилу Велешко, [Сергею Сивкову](https://github.com/SerjSivkov) за исправление ошибок
-
-Пользователям сайта [www.linux.org.ru](https://www.linux.org.ru/) в решении вопросов, связанных с LaTeX
