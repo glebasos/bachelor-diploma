@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2020.5.17)  21 MAY 2020 02:10
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2020.5.17)  21 MAY 2020 15:06
 entering extended mode
 **./main.tex
 (main.tex
@@ -1053,7 +1053,14 @@ LaTeX Info: Redefining \nameref on input line 7.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-(inc/zz0-obzoroblasti.tex [4
+(inc/0-intro.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 1.
+
+[4
+
+] [5]) (inc/zz0-obzoroblasti.tex [6
 
 ]
 Underfull \hbox (badness 1205) in paragraph at lines 30--31
@@ -1061,7 +1068,34 @@ Underfull \hbox (badness 1205) in paragraph at lines 30--31
 оборудования –
  []
 
-[5] [6] [7])
+[7]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \newline
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \newline
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[8] [9])
 
 Package caption Warning: Unused \captionsetup[figure] on input line 114.
 See the caption package documentation for explanation.
@@ -1070,21 +1104,21 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 115.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
 (main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 34.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 34.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 35.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 70C27CF13D086F930F77AC8385E58DE6;82.
+(rerunfilecheck)             Checksum: 26992DD2295CDA23CF802CD654DC7216;135.
  ) 
 Here is how much of TeX's memory you used:
- 29593 strings out of 427669
- 525502 string characters out of 3151854
+ 29598 strings out of 427669
+ 525569 string characters out of 3151854
  634214 words of memory out of 3000000
- 33380 multiletter control sequences out of 15000+200000
+ 33382 multiletter control sequences out of 15000+200000
  532858 words of font info for 45 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 55i,11n,92p,869b,545s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,11n,92p,869b,543s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (4 pages).
+Output written on main.pdf (6 pages).
