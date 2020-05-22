@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2020.5.17)  23 MAY 2020 02:14
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2020.5.17)  23 MAY 2020 02:48
 entering extended mode
 **./main.tex
 (main.tex
@@ -1056,14 +1056,43 @@ LaTeX Info: Redefining \nameref on input line 7.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-(inc/0-intro.tex
+File: extra/otchpr.pdf Graphic file (type pdf)
+<use extra/otchpr.pdf>
+File: extra/otchpr.pdf Graphic file (type pdf)
+<use extra/otchpr.pdf>
+File: extra/otchpr.pdf Graphic file (type pdf)
+<use extra/otchpr.pdf, page 1>
+File: extra/otchpr.pdf Graphic file (type pdf)
+<use extra/otchpr.pdf, page 1>
+File: extra/otchpr.pdf Graphic file (type pdf)
+<use extra/otchpr.pdf, page 1>
+File: extra/otchpr.pdf Graphic file (type pdf)
+<use extra/otchpr.pdf, page 1>
+File: extra/otchpr.pdf Graphic file (type pdf)
+<use extra/otchpr.pdf, page 1>
+[1
+
+]
+File: extra/iz.pdf Graphic file (type pdf)
+<use extra/iz.pdf>
+File: extra/iz.pdf Graphic file (type pdf)
+<use extra/iz.pdf>
+File: extra/iz.pdf Graphic file (type pdf)
+<use extra/iz.pdf, page 1>
+File: extra/iz.pdf Graphic file (type pdf)
+<use extra/iz.pdf, page 1>
+File: extra/iz.pdf Graphic file (type pdf)
+<use extra/iz.pdf, page 1>
+File: extra/iz.pdf Graphic file (type pdf)
+<use extra/iz.pdf, page 1>
+File: extra/iz.pdf Graphic file (type pdf)
+<use extra/iz.pdf, page 1>
+ [2] (inc/0-intro.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 1.
 
-[4
-
-] [5]) (inc/zz0-obzoroblasti.tex [6
+[3] [4]) (inc/zz0-obzoroblasti.tex [5
 
 ]
 Underfull \hbox (badness 1205) in paragraph at lines 31--32
@@ -1071,32 +1100,32 @@ Underfull \hbox (badness 1205) in paragraph at lines 31--32
 оборудования –
  []
 
-[7] [8]
+[6] [7]
 Underfull \hbox (badness 1112) in paragraph at lines 41--42
 []\TU/TimesNewRoman(2)/m/n/14.4 сложные движения и реалистичные физические взаи
 модействия, как
  []
 
-[9]
+[8]
 File: images/markercgmatter.png Graphic file (type bmp)
 <images/markercgmatter.png>
 File: images/empties.png Graphic file (type bmp)
 <images/empties.png>
- [10] [11] [12]) (inc/zz1-proektirovanie.tex
+ [9] [10] [11]) (inc/zz1-proektirovanie.tex
 File: images/scriptinginterface.png Graphic file (type bmp)
 <images/scriptinginterface.png>
- [13
+ [12
 
-] [14]
+] [13]
 File: images/pipeline.png Graphic file (type bmp)
 <images/pipeline.png>
- [15] [16])
+ [14] [15])
 (inc/0-conclusion.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 1.
 
-[17
+[16
 
 ]) (inc/0-bibliography.tex
 
@@ -1131,18 +1160,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--45
 URL:
  []
 
-[18
+[17
 
 ])
 
-Package caption Warning: Unused \captionsetup[table] on input line 115.
+Package caption Warning: Unused \captionsetup[table] on input line 117.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 38.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 38.
 (main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 37.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 38.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 38.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 31E9BAFF21914C581298255462678B82;1145.
 
@@ -1151,12 +1180,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 29668 strings out of 427669
- 526741 string characters out of 3151854
- 635879 words of memory out of 3000000
- 33422 multiletter control sequences out of 15000+200000
+ 29686 strings out of 427669
+ 527141 string characters out of 3151854
+ 635817 words of memory out of 3000000
+ 33432 multiletter control sequences out of 15000+200000
  532858 words of font info for 45 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 55i,12n,92p,869b,545s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,18n,92p,869b,546s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (15 pages).
+Output written on main.pdf (17 pages).
